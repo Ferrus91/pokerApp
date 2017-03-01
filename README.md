@@ -11,7 +11,7 @@ Well, we did make a console app - a multi-user talking console app that understa
 ## Contributors
 
 * [Steve Faulmann](https://bitbucket.org/sfaulmann)
-* [Sam Keayes](https://bitbucket.org/skeays)
+* [Sam Keays](https://www.github.com/ferrus91)
 * [Ari Ghosh](https://bitbucket.org/ar1g)
 * [Tony Woode](https://bitbucket.org/tonywoode)
 
